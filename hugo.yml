@@ -1,5 +1,4 @@
 baseURL: "https://calsirol.github.io"
-languageCode: fr-fr
 title: Loris Lacerenza
 theme: ["hugo-video", "PaperMod"]
 
@@ -50,18 +49,6 @@ params:
     apple_touch_icon: "<link / abs url>"
     safari_pinned_tab: "<link / abs url>"
 
-  # profile-mode
-  profileMode:
-    enabled: true # needs to be explicitly set
-    title: Loris Lacerenza
-    subtitle: "Développeur de jeux vidéo, Passionné par l’informatique, les sciences, les jeux, vidéo et de société, ainsi que par les nouvelles technologies. J’aime aussi la natation, le théâtre, l’escalade et le milieu de l’audiovisuel. Je cherche un CDI ou un stage (de minimum 4 mois) dès que possible dans le développement vidéoludique, 3D ou XR."
-    imageUrl: "home/formal-pic-small.jpg"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
-
-
-
   socialIcons:
     - name: github
       url: "https://github.com/caLsiroL/"
@@ -73,8 +60,6 @@ params:
     hiddenInList: false # hide on list pages and home
     hiddenInSingle: false # hide on single page
 
-  # for search
-  # https://fusejs.io/api/options.html
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
@@ -84,24 +69,64 @@ params:
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
 
-menu:
-  main:
-    - identifier: home
-      name: Home
-      url: /
-      weight: 10
-    - identifier: experiences
-      name: Experiences
-      url: /experiences
-      weight: 20
-    - identifier: projects
-      name: Projects
-      url: /projects
-      weight: 30
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 40
+
+  # # profile-mode
+  # profileMode:
+  #   enabled: true # needs to be explicitly set
+  #   title: Loris Lacerenza
+  #   subtitle: "Développeur de jeux vidéo, Passionné par l'informatique, les sciences, les jeux, vidéo et de société, ainsi que par les nouvelles technologies. J'aime aussi la natation, le théâtre, l'escalade et le milieu de l'audiovisuel. Je cherche un CDI ou un stage (de minimum 4 mois) dès que possible dans le développement vidéoludique, 3D ou XR."
+  #   imageUrl: "home/formal-pic-small.jpg"
+  #   imageWidth: 120
+  #   imageHeight: 120
+  #   imageTitle: my image
+
+defaultContentLanguage: fr
+defaultContentLanguageInSubdir: false
+
+languages:
+  fr:
+    languageCode: fr-FR
+    languageName: Français
+    weight: 1
+    title: Loris Lacerenza
+    params:
+      profileMode:
+        enabled: true
+        title: Loris Lacerenza
+        subtitle: "Développeur Junior spécialisé dans le jeu vidéo, l'Informatique graphique (C++ et 3D) et le dev web fullstack, Passionné par l'informatique, les sciences, les jeux, vidéo et de société, ainsi que par les nouvelles technologies. J'aime aussi la natation, le théâtre, l'escalade et les projets créatif et artistique en tout genre. J'occupe actuellement un poste de développeur CFAO & ingénieur R&D au sein de la société GO2Cam à lyon ce qui explique l'absence de projet publique ces derniers temps."
+        imageUrl: "home/formal-pic-small.jpg"
+        imageWidth: 120
+        imageHeight: 120
+        imageTitle: my image 
+    menu:
+      main:
+        - {identifier: home, name: Accueil, url: /, weight: 10}
+        - {identifier: experiences, name: Expériences, url: /experiences/, weight: 20}
+        - {identifier: projects, name: Projets, url: /projects/, weight: 30}
+        - {identifier: tags, name: Tags, url: /tags/, weight: 40}
+  en:
+    languageCode: en-US
+    languageName: English
+    weight: 2
+    title: Loris Lacerenza
+    params:
+      profileMode:
+        enabled: true
+        title: Loris Lacerenza
+        subtitle: "Junior developer specialised in video games, computer graphics (C++ and 3D) and full-stack web development. I am passionate about computer science, science in general, video and board games, as well as new technologies. I also enjoy swimming, theatre, rock climbing and creative endevors of all kinds. I am currently working as a CAD/CAM developer and R&D engineer at GO2Cam in Lyon, which explains why I haven't had any public projects recently."
+        imageUrl: "home/formal-pic-small.jpg"
+        imageWidth: 120
+        imageHeight: 120
+        imageTitle: my image
+    menu:
+      main:
+        - {identifier: home, name: Home, url: /, weight: 10}
+        - {identifier: experiences, name: Experiences, url: /experiences/, weight: 20}
+        - {identifier: projects, name: Projects, url: /projects/, weight: 30}
+        - {identifier: tags, name: Tags, url: /tags/, weight: 40}
+
+
+
 
 # markup:
 #   goldmark:
