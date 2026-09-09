@@ -1,6 +1,6 @@
 ---
 title: "Chaos Kitchen (POC de Jeu VR)"
-description: "Projet universitaire création d'un jeu au gameplay asymétrique inspiré de BTD6 "
+description: "Projet universitaire création d'un jeu en VR avec UE5 "
 dateString: Decembre 2023
 draft: false
 tags: ["Unreal Engine", "Unreal Engine 5", "UE5", "UE", "VR"]
@@ -22,4 +22,4 @@ Voici une vidéo de démonstration de ce que nous avons réussi à faire dans ce
 
 ## Conclusion
 
-Le projet Chaos Kitchen m'a permis de mettre un premier pied dans le développement de jeu VR avec Unreal, j'ai pris beaucoup de plaisir à réutiliser une technologie que je connaissais déjà avec un moteur dans lequel je progressais. J'aimerais vraiment reprendre le developpement de Chaos Kitchen dans le futur car je trouve que l'idé à du potentiel
+Le projet Chaos Kitchen m'a permis de mettre un premier pied dans le développement de jeu VR avec Unreal, j'ai pris beaucoup de plaisir à réutiliser une technologie que je connaissais déjà avec un moteur dans lequel je progressais. J'aimerais vraiment reprendre le developpement de Chaos Kitchen dans le futur car je trouve que l'idée à du potentiel

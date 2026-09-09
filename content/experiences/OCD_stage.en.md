@@ -1,18 +1,19 @@
 ---
-title: "Stagiaire Ingénieur de production fullstack"
-description: "Orange Cyberdefense (Siège social, Nanterre)"
-dateString: Mai 2022 - Août 2022
+title: "Fullstack production engineer intern"
+description: "Orange Cyberdefense (Headquarter, Nanterre)"
+dateString: May 2022 - August 2022
 draft: false
-tags: ["Linux", "Docker", "PHP", "VueJS","Automation", "Laravel", "Git"]
+tags: ["Linux", "Docker", "PHP", "VueJS", "Javascript", "Automation", "Laravel", "Git"]
 showToc: false
 weight: 302
 --- 
 
 ### Description
-J'ai eu la chance d'effectuer mon stage de Master 1 chez **Orange Cyberdefense** dans lequel j'ai pu effectuer les tâches suivantes : 
+At the end of my first year of master's degree we had an obligatory internship of at least two month to do. I had the opportunity to this internship at **Orange Cyberdefense** where I was entrusted with the following tasks:
 
-- Création d'un module/micro-service de facturation semi-automatisé dans le logiciel interne existant
-- Veille technique et recherche de solution technique/librairie pour les projets en cours
-- Création de maquette avec figma pour les différents outils internes du service  
-- Mise en place et configuration d'un serveur de développement 
-- Gestion du déploiement d'application avec docker et docker-compose
+- Development of a semi-automated billing module/microservice within the in-house software
+- Contributing to the support, debugging and improvement of the in-house microsoc software
+- Technology monitoring and researching technical solutions and libraries for ongoing projects
+- Creating mock-ups using Figma for the various in-house tools
+- Setting up and configuring a development server
+- Application deployment using Docker and Docker Compose

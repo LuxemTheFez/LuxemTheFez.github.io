@@ -13,7 +13,7 @@ cover:
 ## 🔗 [Github de Electrololens](https://github.com/caLsiroL/Electrololens)
 
 ## Introduction
-Mon cursus M1 d'Informatique à l'**U**niversité **S**avoie **M**ont **B**lanc intégrait la réalisation d'un projet sur plusieurs mois avec un client. Dans le cadre de ce projet, nous avons été commissionnés par M. Carron enseignant chercheur de la part des Géologues de L'IUT afin de vérifier s'il était envisageable d'utiliser le casque de réalité augmentée Microsoft Hololens 2 dans un cadre professionnel pour les géomètres. 
+Mon cursus M1 d'Informatique à l'**U**niversité **S**avoie **M**ont **B**lanc intégrait la réalisation d'un projet sur plusieurs mois avec un client. Dans le cadre de ce projet, nous avons été commissionnés par M. Carron, enseignant chercheur à l'IUT, lui même missionné par des Géologues de l'IUT afin de vérifier s'il était envisageable d'utiliser le casque de réalité augmentée Microsoft Hololens 2 dans un cadre professionnel pour les géomètres. 
 
 
 ## Geololens

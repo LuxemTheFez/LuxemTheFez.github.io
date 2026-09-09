@@ -42,4 +42,4 @@ Je me suis entre autre, chargé, mais pas que :
 ## Conclusion
 
 Le projet Erynies nous a permis de nous mettre dans ce qui se rapproche le plus de ce que l'on pourra expérimenter en tant qu'employé dans un studio de jeux vidéo tout en étant un projet étudiant formateur.
-Pour un projet d'étudiant, nous aurions aimé avoir quelques moi de travail supplémentaire mais nous sommes quand même content de là où nous sommes arrivé. L'équipe avec laquelle j'ai pu travailler était vraiment génial et très bonne ambiance j'ai pris beaucoup de plaisir et j'ai pu progresser sur Unreal Engine
+Pour un projet d'étudiant, nous aurions aimé avoir quelques mois de travail supplémentaire mais nous sommes quand même content de là où nous sommes arrivé. L'équipe avec laquelle j'ai pu travailler était vraiment génial et très bonne ambiance j'ai pris beaucoup de plaisir et j'ai pu progresser sur Unreal Engine

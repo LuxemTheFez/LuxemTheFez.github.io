@@ -11,7 +11,8 @@ weight: 302
 ### Description
 J'ai eu la chance d'effectuer mon stage de Master 1 chez **Orange Cyberdefense** dans lequel j'ai pu effectuer les tâches suivantes : 
 
-- Création d'un module/micro-service de facturation semi-automatisé dans le logiciel interne existant
+- Création d'un module/micro-service de facturation semi-automatisé dans le logiciel interne
+- Contribution au support, au debug et à l'amélioration du logiciel micro-soc interne
 - Veille technique et recherche de solution technique/librairie pour les projets en cours
 - Création de maquette avec figma pour les différents outils internes du service  
 - Mise en place et configuration d'un serveur de développement 
